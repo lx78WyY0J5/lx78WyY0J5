@@ -6,3 +6,5 @@
 - :telescope: Reprise de la programmation & administration...
 - ### Rendre :open_hands: un projet et lui permettre un usage éducatif aux nouveaux venants
 - :spider_web: à venir
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lx78WyY0J5&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)

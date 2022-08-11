@@ -1,5 +1,5 @@
 
-# 👋  ![](https://komarev.com/ghpvc/?username=lx78WyY0J5&color=red&label=%F0%9F%91%80)
+# 👋 ![](https://badgen.net/badge/icon/github?icon=github&label) ![](https://komarev.com/ghpvc/?username=lx78WyY0J5&color=red&label=%F0%9F%91%80)
 
 ## 🌐 Pour me contacter ? 
 - 💬 [Profile discord](https://discord.com/users/748530290917638165)  

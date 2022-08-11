@@ -7,9 +7,9 @@
 
 #
 
-### - 🔭 Reprise de la programmation & administration...
-### - 👐 Rendre ouvert un projet et lui permettre un usage éducatif aux nouveaux venants
-### - 🌐 Lien à venir
+- 🔭 Reprise de la programmation & administration...
+- 👐 Rendre ouvert un projet et lui permettre un usage éducatif aux nouveaux venants
+- 🌐 Lien à venir
 
 #
 

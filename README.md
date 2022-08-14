@@ -1,11 +1,12 @@
 
 👋 Profil de "random"
+</br></br>
 ![](https://komarev.com/ghpvc/?username=lx78WyY0J5&color=red&label=%F0%9F%91%80)
 
 -----
 
 <details id=0>
-<summary><h2>🌐 Liens</h2></summary>
+<summary><h1>🌐 Liens</h1></summary>
 
 - 💬 [Profile discord](https://discord.com/users/748530290917638165)  
 - 🚀 [Serveur discord](https://discord.gg/ae2DK7qayQ)

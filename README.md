@@ -1,5 +1,5 @@
 
-👋 Profil de "random"
+👋 Profil de lx78WyY0J5 A.K.A "random"
 </br></br>
 ![](https://komarev.com/ghpvc/?username=lx78WyY0J5&color=red&label=%F0%9F%91%80)
 

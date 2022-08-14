@@ -1,5 +1,8 @@
 
-# 👋 ![](https://komarev.com/ghpvc/?username=lx78WyY0J5&color=red&label=%F0%9F%91%80)
+👋 Profil de "random"
+![](https://komarev.com/ghpvc/?username=lx78WyY0J5&color=red&label=%F0%9F%91%80)
+
+-----
 
 <details id=0>
 <summary><h2>🌐 Liens</h2></summary>
@@ -9,7 +12,7 @@
   
 </details>
 
-#
+-----
 
 <details id=1>
 <summary><h2>📋 Projets</h2></summary>
@@ -20,7 +23,7 @@
   
 </details>
 
-#
+-----
 
 
 <details id=2>

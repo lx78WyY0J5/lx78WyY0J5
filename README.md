@@ -19,7 +19,7 @@
 <details id=1>
 <summary><h2>📋 Projets</h2></summary>
   
-[![](https://github-readme-stats.vercel.app/api/pin/?username=lx78WyY0J5&repo=lx78WyY0J5.github.io)](https://github.com/lx78WyY0J5/lx78WyY0J5.github.io)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=lx78WyY0J5&repo=lx78WyY0J5.github.io&theme=dark&hide_border=true)](https://github.com/lx78WyY0J5/lx78WyY0J5.github.io)
   
 </details>
 

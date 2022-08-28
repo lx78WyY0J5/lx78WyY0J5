@@ -19,9 +19,7 @@
 <details id=1>
 <summary><h2>📋 Projets</h2></summary>
   
-- 🔭 Reprise de la programmation & administration...
-- 👐 __Rendre ouvert un projet et lui permettre un usage éducatif__ aux nouveaux venants
-- 🌐 **__Lien à venir__**
+[![](https://github-readme-stats.vercel.app/api/pin/?username=lx78WyY0J5&repo=lx78WyY0J5.github.io)](https://github.com/lx78WyY0J5/lx78WyY0J5.github.io)
   
 </details>
 

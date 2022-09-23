@@ -10,10 +10,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: generate-snake-game-from-github-contribution-grid
       - uses: Platane/snk@v2
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: lx78WyY0J5
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark

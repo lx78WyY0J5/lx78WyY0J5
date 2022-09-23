@@ -1,4 +1,3 @@
-$${\color{white}\boxed{\color{red}\mathbb{Random} \space \mathbb{"lx78WyY0J5"}}}$$   
 ![](https://img.shields.io/github/commit-activity/m/lx78WyY0J5/lx78WyY0J5?color=red&style=for-the-badge)
 ![](https://img.shields.io/github/last-commit/lx78WyY0J5/lx78WyY0J5?color=red&style=for-the-badge)  
 ![](https://komarev.com/ghpvc/?username=lx78WyY0J5&color=red&label=%F0%9F%91%80)

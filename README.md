@@ -1,7 +1,8 @@
 ![](https://img.shields.io/github/commit-activity/m/lx78WyY0J5/lx78WyY0J5?color=red&style=for-the-badge)
 ![](https://img.shields.io/github/last-commit/lx78WyY0J5/lx78WyY0J5?color=red&style=for-the-badge)  
 ![](https://komarev.com/ghpvc/?username=lx78WyY0J5&color=red&label=%F0%9F%91%80)
-<a href="https://discord.gg/ssC6KYMjZz"><img src="https://discord.com/api/guilds/1015687367102836869/widget.png?"></a><a href="https://discord.gg/ae2DK7qayQ">(WIP) <img src="https://discord.com/api/guilds/920402694907240500/widget.png?"></a>  
+<a href="https://discord.gg/ae2DK7qayQ"><img src="https://discord.com/api/guilds/920402694907240500/widget.png?"></a>  
+<a href="https://discord.gg/ssC6KYMjZz">(WIP)<img src="https://discord.com/api/guilds/1015687367102836869/widget.png?"></a>  
 
 ----
 
@@ -19,6 +20,7 @@
 | Bash | ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)  ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) |
 | Web | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) |
 | Réseaux | ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  ![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white)  ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)  ![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white) |
+
 ----
 
 [![](https://lanyard.cnrad.dev/api/748530290917638165?bg=151515&idleMessage=...&borderRadius=0)](https://discord.com/users/748530290917638165)

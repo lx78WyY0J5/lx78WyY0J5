@@ -26,3 +26,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lx78WyY0J5&count_private=true&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api?username=lx78WyY0J5&count_private=true&show_icons=true&theme=dark&hide_border=true)
 ![](https://github-readme-streak-stats.herokuapp.com?user=lx78WyY0J5&count_private=true&theme=dark&hide_border=true)
+![](https://github-profile-trophy.vercel.app/?username=lx78WyY0J5&theme=darkhub&&no-frame=true)

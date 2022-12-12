@@ -1,5 +1,7 @@
 ![](https://img.shields.io/github/commit-activity/m/lx78WyY0J5/lx78WyY0J5?color=red&style=for-the-badge)
 ![](https://img.shields.io/github/last-commit/lx78WyY0J5/lx78WyY0J5?color=red&style=for-the-badge)  
+![](https://img.shields.io/github/stars/lx78WyY0J5?color=red&style=for-the-badge)
+![](https://img.shields.io/github/stars/lx78WyY0J5/lx78WyY0J5?color=red&label=repo%20stars&style=for-the-badge)  
 ![](https://komarev.com/ghpvc/?username=lx78WyY0J5&color=red&label=%F0%9F%91%80)
 <a href="https://discord.gg/ssC6KYMjZz"><img src="https://discordapp.com/api/guilds/1015687367102836869/widget.png"></a>  
 

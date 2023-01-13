@@ -24,8 +24,8 @@
 
 ----
 
-[![](https://lanyard.cnrad.dev/api/748530290917638165?bg=151515&idleMessage=...&borderRadius=0)](https://discord.com/users/748530290917638165)
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lx78WyY0J5&count_private=true&theme=dark&hide_border=true)
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lx78WyY0J5&count_private=true&show_icons=true&theme=dark&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com?user=lx78WyY0J5&count_private=true&theme=dark&hide_border=true)
-![](https://github-profile-trophy.vercel.app/?username=lx78WyY0J5&theme=darkhub&&no-frame=true&no-bg=true)
+[![](https://lanyard.cnrad.dev/api/748530290917638165?bg=151515&idleMessage=...&borderRadius=0)](https://discord.com/users/748530290917638165)  
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lx78WyY0J5&count_private=true&theme=dark&hide_border=true)  
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lx78WyY0J5&count_private=true&show_icons=true&theme=dark&hide_border=true)  
+![](https://github-readme-streak-stats.herokuapp.com?user=lx78WyY0J5&count_private=true&theme=dark&hide_border=true)  
+![](https://github-profile-trophy.vercel.app/?username=lx78WyY0J5&theme=darkhub&&no-frame=true&no-bg=true)  

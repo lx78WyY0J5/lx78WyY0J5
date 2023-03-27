@@ -26,7 +26,7 @@
 # Projets personnel
 | Projets | Détails |
 |------|------|
-| 🔐 Discord self bot | [SpamBot](https://github.com/lx78WyY0J5/Plugin-SpamBot) ![](https://img.shields.io/github/commit-activity/m/lx78WyY0J5/Plugin-SpamBot?color=red&style=for-the-badge)  ![](https://img.shields.io/github/last-commit/lx78WyY0J5/Plugin-SpamBot?color=red&style=for-the-badge) |
+| 🔐 Discord [SpamBot](https://github.com/lx78WyY0J5/Plugin-SpamBot) | ![](https://img.shields.io/github/commit-activity/m/lx78WyY0J5/Plugin-SpamBot?color=red&style=for-the-badge)  ![](https://img.shields.io/github/last-commit/lx78WyY0J5/Plugin-SpamBot?color=red&style=for-the-badge) |
 
 </details>
 

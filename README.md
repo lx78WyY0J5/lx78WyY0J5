@@ -13,14 +13,14 @@
 
 <details><summary>Projets</summary>  
 
-# Projets GHub.fr
+# Projets Altherneum.fr
 | Projets | Détails |
 |------|------|
-| - [Github](https://github.com/GHub-fr) <br> - [Site](https://GHub.fr) <br> - [Discord](https://GHub.fr/discord) | <a href="https://GHub.fr"><img src="https://ghub.fr/storage/img/icone.png" width=220 height=88></a> ![Website](https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2FGHub.fr) <a href="https://GHub.fr/discord"><img src="https://discordapp.com/api/guilds/1081921426333909072/widget.png"></a> <br> ![https://GHub.fr/](https://GHub.fr/storage/img/gif.gif) |
-| Github.io <br> - [Page](https://GHub-fr.github.io) <br> - [Repo](https://github.com/GHub-fr/GHub-fr.github.io) | ![](https://img.shields.io/github/commit-activity/m/GHub-fr/GHub-fr.github.io?color=red&style=for-the-badge)  ![](https://img.shields.io/github/last-commit/GHub-fr/GHub-fr.github.io?color=red&style=for-the-badge) |
-| Ubuntu [Server](https://github.com/GHub-fr/server) setup | ![](https://img.shields.io/github/commit-activity/m/GHub-fr/server?color=red&style=for-the-badge)  ![](https://img.shields.io/github/last-commit/GHub-fr/server?color=red&style=for-the-badge) |
-| MC [Plugin](https://github.com/GHub-fr/plugin) | ![](https://img.shields.io/github/commit-activity/m/GHub-fr/plugin?color=red&style=for-the-badge)  ![](https://img.shields.io/github/last-commit/GHub-fr/plugin?color=red&style=for-the-badge) |
-| Discord [Bot](https://github.com/GHub-fr/bot) | ![](https://img.shields.io/github/commit-activity/m/GHub-fr/bot?color=red&style=for-the-badge)  ![](https://img.shields.io/github/last-commit/GHub-fr/bot?color=red&style=for-the-badge) |
+| - [Github](https://github.com/Altherneum) <br> - [Site](https://Altherneum.fr) <br> - [Discord](https://Altherneum.fr/discord) | <a href="https://Altherneum.fr"><img src="https://Altherneum.fr/storage/img/icone.png" width=220 height=88></a> ![Website](https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2FAltherneum.fr) <a href="https://Altherneum.fr/discord"><img src="https://discordapp.com/api/guilds/1081921426333909072/widget.png"></a> <br> ![https://Altherneum.fr/](https://Altherneum.fr/storage/img/gif.gif) |
+| Github.io <br> - [Page](https://Altherneum.github.io) <br> - [Repo](https://github.com/Altherneum/Altherneum.github.io) | ![](https://img.shields.io/github/commit-activity/m/Altherneum/Altherneum.github.io?color=red&style=for-the-badge)  ![](https://img.shields.io/github/last-commit/Altherneum/Altherneum.github.io?color=red&style=for-the-badge) |
+| Ubuntu [Server](https://github.com/Altherneum/server) setup | ![](https://img.shields.io/github/commit-activity/m/Altherneum/server?color=red&style=for-the-badge)  ![](https://img.shields.io/github/last-commit/Altherneum/server?color=red&style=for-the-badge) |
+| MC [Plugin](https://github.com/Altherneum/plugin) | ![](https://img.shields.io/github/commit-activity/m/Altherneum/plugin?color=red&style=for-the-badge)  ![](https://img.shields.io/github/last-commit/Altherneum/plugin?color=red&style=for-the-badge) |
+| Discord [Bot](https://github.com/Altherneum/bot) | ![](https://img.shields.io/github/commit-activity/m/Altherneum/bot?color=red&style=for-the-badge)  ![](https://img.shields.io/github/last-commit/Altherneum/bot?color=red&style=for-the-badge) |
 
 # Projets personnel
 | Projets | Détails |
